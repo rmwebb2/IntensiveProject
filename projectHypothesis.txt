@@ -1,0 +1,11 @@
+National Obesity by State - Hypothesis and Problem Statement
+
+Hypothesis:
+
+Obesity in America has been increasing over the years. Residents of Southern and rural states experience a higher rate of obesity due to factors such as limited walkable infrastructure, higher poverty rates leading to reduced access to healthy foods, and decreased emphasis on exercise compared to residents of other regions. Lack of education and emphasis on general health could also contribute to increased obesity rates experience in these regions. 
+
+Problem Statement:
+
+Obesity remains a critical public health issue in the United States, with significant disparities observed across different geographical regions and socioeconomic backgrounds. Despite various interventions aimed at addressing this issue, Southern and rural states consistently report higher rates of obesity compared to their urban and Northern counterparts. This study seeks to investigate the underlying factors contributing to the elevated prevalence of obesity in these regions. Specifically, we aim to explore the relationship between obesity rates and factors such as walkability of cities, socioeconomic status, and emphasis on physical activity. By analyzing a dataset sourced from various Southern and rural states, I intend to provide identify causes of higher rates of obesity in Southern and rural regions and potential solutions.
+
+*note: I noticed that my dataset is limited to obesity percentages by state only. Walkability and other factors are not included so I may have to due some individual outside research to confirm/dispel my claims. 
