@@ -1,14 +1,17 @@
-National Obesity by State - Hypothesis and Problem Statement
+Crime in Atlanta between 2009-2020
+
 
 Hypothesis:
+The hypothesis of this study is that the majority of crimes reported in Atlanta are nonviolent property crimes and that these crimes are more likely to occur on Fridays and Saturdays compared to other days of the week.
 
-Obesity in America has been increasing over the years. Residents of Southern and rural states experience a higher rate of obesity due to factors such as limited walkable infrastructure, higher poverty rates leading to reduced access to healthy foods, and decreased emphasis on exercise compared to residents of other regions. Lack of education and emphasis on general health could also contribute to increased obesity rates experience in these regions. 
 
 Problem Statement:
+Crime is a pervasive issue in urban areas, with significant implications for public safety, economic stability, and community well-being. Understanding the nature and patterns of crime is crucial for effective law enforcement and policymaking. This study aims to investigate the prevalence and characteristics of crime in Atlanta, with a focus on identifying the types of crimes reported to the Atlanta Police Department (APD) and the temporal distribution of these incidents.
 
-Obesity remains a critical public health issue in the United States, with significant disparities observed across different geographical regions and socioeconomic backgrounds. Despite various interventions aimed at addressing this issue, Southern and rural states consistently report higher rates of obesity compared to their urban and Northern counterparts. This study seeks to investigate the underlying factors contributing to the elevated prevalence of obesity in these regions. Specifically, I aim to explore the relationship between obesity rates and factors such as walkability of cities, socioeconomic status, and emphasis on physical activity. By analyzing a dataset sourced from various Southern and rural states, I intend to provide identify causes of higher rates of obesity in Southern and rural regions and potential solutions.
+The primary hypothesis guiding this research is that a substantial proportion of crimes reported in Atlanta are nonviolent property crimes, including theft, burglary, and vandalism. Additionally, it is postulated that there is a temporal pattern in the occurrence of these crimes, with a higher frequency observed on Fridays and Saturdays compared to other days of the week.
 
-I will be using the following dataset:
-https://catalog.data.gov/dataset/national-obesity-by-state-d765a
+By examining the crime data provided by the Atlanta Police Department and analyzing the types and temporal distribution of reported incidents, this study seeks to contribute to a better understanding of the crime landscape in Atlanta. The findings of this research can inform law enforcement strategies, resource allocation, and community initiatives aimed at reducing crime rates and enhancing public safety in the city.
 
-*note: I noticed that my dataset is limited to obesity percentages by state only. Walkability and other factors are not included so I may have to due some individual outside research to confirm/dispel my claims. 
+
+*I will be using the csv retrieved from the following website:
+https://experience.arcgis.com/experience/76b68b923a094fb5a2d193ace5ccb975/?data_id=dataSource_2-0%3A366244
