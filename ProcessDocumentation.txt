@@ -1,7 +1,7 @@
 Process documentation:
 
 Downloaded csv from Atlanta Police Department data portal
-(did not use curl as I had to export the data in csv format
+(did not use curl as I had to export the data in csv format)
 
 Using gitbash:
 head AtlantaCrime.csv (retrieved way too much info haha, but was making sure I was doing it correctly)
