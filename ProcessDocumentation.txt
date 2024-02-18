@@ -1,0 +1,10 @@
+Process documentation:
+
+Downloaded csv from Atlanta Police Department data portal
+(did not use curl as I had to export the data in csv format
+
+Using gitbash:
+head AtlantaCrime.csv (retrieved way too much info haha, but was making sure I was doing it correctly)
+head -n 1 AtlantaCrime.csv //to retrieve the column headers
+awk -F ',' '{print $4, $5, $7, $14, $16}' AtlantaCrime.csv > newCrime.csv //to copy the relevant columns into a new csv file, however I noticed that this copied each column into a singular column within the new csv file
+awk -F ',' '{print $4"," $5"," $7"," $14"," $16}' AtlantaCrime.csv > newCrime.csv //this fixed the singular column issue and copied each of the columns into their own individual columns
