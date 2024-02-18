@@ -1,0 +1,11 @@
+Early Conclusions:
+
+Total number of records: 366,071 (without the column header row)
+
+My original hypothesis posited that crimes in Atlanta primarily occur on Fridays and Saturdays. This was found accurate with Saturday occurring 55,379 times and Friday occurring 56,227 times. Surprisingly, Sundays seem to see the least amount of crimes occurring at 47,659 times with an uptick on Mondays (the third highest day) with 52,700 occurrences. I suppose this could be because people are more likely to be out and about on Fridays and Saturdays so a likelihood of crime goes up.
+
+(I took screenshots of these totals if needed!)
+
+I also hypothesized that a majority of crimes committed in Atlanta are nonviolent property crimes such as theft. This also proved to be true. I originally searched the columns to count the number of times the words 'burglary, theft, larceny, and robbery' occurred (338,470 occurrences/366,071 records), but I realized that robbery is usually theft by force or threat making it a violent offense (in my opinion, I don't know about the actual law). I performed that search again without robbery with theft, larceny, and burglary occurring 315,888 times (about 86%). 
+
+For further investigation, I would like to try to pinpoint where crimes are most likely to be committed by using the location information in the csv file as well as what time of day crimes are most likely to occur. I'm also interested in narrowing the times down per specific day. 
