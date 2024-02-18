@@ -8,3 +8,4 @@ head AtlantaCrime.csv (retrieved way too much info haha, but was making sure I w
 head -n 1 AtlantaCrime.csv //to retrieve the column headers
 awk -F ',' '{print $4, $5, $7, $14, $16}' AtlantaCrime.csv > newCrime.csv //to copy the relevant columns into a new csv file, however I noticed that this copied each column into a singular column within the new csv file
 awk -F ',' '{print $4"," $5"," $7"," $14"," $16}' AtlantaCrime.csv > newCrime.csv //this fixed the singular column issue and copied each of the columns into their own individual columns
+awk -v word="Tuesday" -F ',' '$1 == word {count++} END {print "Occurences: ",count} newCrime.csv //used this to count how many time each day occurred within the newCrime.csv file
