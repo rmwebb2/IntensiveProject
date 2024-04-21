@@ -1,0 +1,3 @@
+Hadoop Conclusions:
+
+Unfortunately, there is something up with my reducer code and I cannot tell if my results are different than my original conclusions/hypothesis. The code ran in the hadoop system and the part-00000 was created, but it contained no results. I did not receive any errors, but there was no output. :(
